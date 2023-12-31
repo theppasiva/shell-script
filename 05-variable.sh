@@ -1,6 +1,8 @@
 #!bin/bash
 
-USERNAME=$1
+echo "please enter your username"
+
+read USERNAME
 PASSWORD=$2
 
 echo "username is:$USERNAME,password is: $PASSWORD"
