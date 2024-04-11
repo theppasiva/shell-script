@@ -2,8 +2,8 @@
 
 # List of repository URLs
 repos=(
-    "https://github.com/theppasiva/shell-script.git"
-    "https://github.com/theppasiva/roboshop-shell.git"
+    "https://github.com/theppasiva/test-repo.git"
+    #"https://github.com/theppasiva/roboshop-shell.git"
     # Add more repository URLs as needed
 )
 
