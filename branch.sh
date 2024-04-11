@@ -8,7 +8,7 @@
 
  if [ $cm == 'c' ]; then
     git checkout -b $branch
-elseif [ $cm == 'm' ]; then
+elif [ $cm == 'm' ]; then
     git checkout master && git pull origin  master && git checkout -b $branch
 else
     echo " branch is :$branch"
