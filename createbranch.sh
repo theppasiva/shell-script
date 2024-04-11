@@ -8,7 +8,7 @@ repos=(
 )
 
 # New branch name
-new_branch="main"
+new_branch="feature"
 
 for repo in "${repos[@]}"; do
     # Clone the repository
